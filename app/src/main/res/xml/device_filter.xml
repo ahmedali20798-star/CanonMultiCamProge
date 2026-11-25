@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Canon Inc. USB Vendor ID (1193 = 0x04A9) + Still Image / PTP Class (6/1/1) -->
+    <usb-device vendor-id="1193" class="6" subclass="1" protocol="1" />
+    <usb-device vendor-id="1193" />
+</resources>
